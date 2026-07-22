@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Felipe, a software developer passionate about technology and continuous learning.
+
 <!--
 **Felipewd97/Felipewd97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
